@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="mockito.MockitoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-03-13T06:09:43" hostname="bridgelabz" time="0.186">
+  <properties/>
+  <testcase name="customerReaderTest" classname="mockito.MockitoTest" time="0.186"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
